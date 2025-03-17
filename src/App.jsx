@@ -7,6 +7,9 @@ function App() {
   return (
     <>
       <Header />
+        <div className="dog-background">
+
+        </div>
     </>
   );
 }

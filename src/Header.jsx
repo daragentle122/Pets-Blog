@@ -2,7 +2,7 @@
 function Header() {
     return(
         <header>
-            <h1>Pets Blog</h1>
+            <h1 className="text-3xl font-bold underline">Pets Blog</h1>
             <nav>
                 <ul>
                     <li><a href="/">Home</a></li>

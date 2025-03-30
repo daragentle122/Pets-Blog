@@ -2,15 +2,16 @@
 function Header() {
     return(
         <header>
-            <h1 className="text-3xl font-bold underline">Pets Blog</h1>
+            <h1>Blog</h1>
             <nav>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/dogs">Dogs</a></li>
-                    <li><a href="/cats">Cats</a></li>
+                    <li><a href="/about">Dogs</a></li>
+                    <li><a href="/contact">Cats</a></li>
                 </ul>
             </nav>
         </header>
+        
 
     );
 }
